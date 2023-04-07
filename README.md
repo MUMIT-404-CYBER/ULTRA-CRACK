@@ -14,6 +14,8 @@
 
 * `pip install futures`
 
+* `pip install urllib3`
+
 * `pip install rich`
 
 * `pip install bs4`
