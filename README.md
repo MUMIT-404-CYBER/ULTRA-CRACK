@@ -13,12 +13,12 @@ pip install bs4
 rm -rf ULTRA-CRACK
 git clone https://github.com/MUMIT-404-CYBER/ULTRA-CRACK
 cd ULTRA-CRACK
-python Green.py
+python3 Green.py
 ```
 
 ___This Tools is Free Enjoy Dear User.___</br>
 
-<h2>🔻____DEMO-SCREENSHOT____🔻 </h2>
+<h2>🔻____CRACKING-SRC____🔻 </h2>
 <br>
 <p align="center">
 <img src="__scr__/Ultra_01.png"/>
