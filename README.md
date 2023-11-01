@@ -18,6 +18,13 @@ python3 Green.py
 
 ___This Tools is Free Enjoy Dear User.___</br>
 
+
+__📥___Download Termux Working Apk___🔻__</br>
+
+
+[![forthebadge cc-nc](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/en/packages/com.termux/)
+
+
 <h2>🔻____CRACKING-SRC____🔻 </h2>
 <br>
 <p align="center">
